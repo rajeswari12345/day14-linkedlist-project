@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day14 data structures programs\linked list uc9\obj\Debug\net6.0\linked list uc9.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day14 data structures programs\linked list uc9\obj\Debug\net6.0\linked list uc9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day14 data structures programs\linked list uc9\obj\Debug\net6.0\linked list uc9.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day14 data structures programs\linked list uc9\obj\Debug\net6.0\linked list uc9.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day14 data structures programs\linked list uc9\obj\Debug\net6.0\linked list uc9.csproj.CoreCompileInputs.cache

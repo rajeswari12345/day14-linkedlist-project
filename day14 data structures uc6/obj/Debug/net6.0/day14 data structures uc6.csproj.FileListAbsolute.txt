@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day14 data structures programs\day14 data structures uc6\obj\Debug\net6.0\day14 data structures uc6.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day14 data structures programs\day14 data structures uc6\obj\Debug\net6.0\day14 data structures uc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day14 data structures programs\day14 data structures uc6\obj\Debug\net6.0\day14 data structures uc6.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day14 data structures programs\day14 data structures uc6\obj\Debug\net6.0\day14 data structures uc6.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day14 data structures programs\day14 data structures uc6\obj\Debug\net6.0\day14 data structures uc6.csproj.CoreCompileInputs.cache
