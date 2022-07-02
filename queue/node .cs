@@ -1,13 +1,14 @@
 ﻿using System;
 namespace DataStructuresDemo
 {
-    public class Node
+    public class stack
     {
         public int data;
         public Node next;
         public Node(int data)
         {
-            this.data = data;
+            data = d;
+            next = null
         }
     }
 }
