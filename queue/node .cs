@@ -1,7 +1,7 @@
 ﻿using System;
 namespace DataStructuresDemo
 {
-    public class stack
+    public class queue
     {
         public int data;
         public Node next;
